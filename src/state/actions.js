@@ -1,0 +1,1 @@
+export const UPDATE_NETWORKS = "UPDATE_NETORKS"
